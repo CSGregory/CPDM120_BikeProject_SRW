@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------------------------------------------
-# Name: Shane Winslow, Caleb Gregory, and Parthkumar Patel
+# Name: Shane Winslow, Caleb Gregory, and Maison
 # Team: D
 # Project Name: Bike Rental Object Oriented Project
 # Project Desc: Collection of Classes their related methods for the customer and bike shop entities for business logic
